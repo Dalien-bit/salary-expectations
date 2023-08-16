@@ -1,4 +1,4 @@
+.gitignore
 /env
 /.idea
 /.ipynb_checkpoints
-.gitignore
